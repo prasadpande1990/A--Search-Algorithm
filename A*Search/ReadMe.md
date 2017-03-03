@@ -1,9 +1,5 @@
-															Assignment 2
-														 A* Search Algorithm
-														    PRASAD PANDE
-														  Net Id - psp150030
-
-Tools and Platform Used
+															
+##Tools and Platform Used
 1. java version "1.8.0_101"
 2. IntelliJ IDEA CE
 
@@ -15,7 +11,7 @@ Execution Instructions
 4. If step 3 is successful, run the code using
 	java -cp . astar.AStartImpl
 
-Sample Output
+##Sample Output
 
 Initiating the input graph for A-star search
 Applying A-star search algorithm to find shortest path with w = 0
